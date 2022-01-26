@@ -1,0 +1,9 @@
+In this website prototype I have implemented GESTALT principles of Proximity, Similarity, Focal Point and Common Region to make my design more user friendly.
+
+Proximity: The idea that when objects are placed in close proximity to one another, those objects are seen as a group rather than seen individually. The spacing between different groups is carefully taken into consideration using the Proximity principle. I made sure there is no missing context problem for the users when they use the website. All the overlays are placed close to the respective button that calls the interaction. For e.g. When user clicks on Sign-in/Register button on the Navigation bar, the overlay to sign-up and sign-in appears immediately below the Sign-in/Register button on the Nav bar
+
+Similarity: Similarity occurs when objects look similar to one another. People often perceive them as a group or pattern. The interactive buttons such as Café Locations are Dark Brown. The major CTA buttons on all the pages are colour E3992B.
+
+Focal Point: Focal points are areas of interest, emphasis or difference within a composition that capture and hold the viewer’s attention. The Apply Promocode CTA (secondary CTA) on Proceed to Payment page is Dark Brown since the Action is not a major CTA for the website to operate efficiently. However, the colour is still catchy for the user eyes.
+
+Common Region: The principle of common region is highly related to proximity. It states that when objects are located within the same closed region, we perceive them as being grouped together. In my website on Page Take-Out Menu, I have created a separate frames for each common region viz. Most Popular, Hot Beverages, Cold Beverages, and Snacks. Each of these frames are separated with the Heading and can be scrolled horizontally.
